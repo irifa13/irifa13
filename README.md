@@ -1,5 +1,6 @@
 <h1 align="center"> Hey Everyone 👋🏻, I'm Irifa Khaishagi 🦋</h1>
 <h3 align="center">I am an Undergrad Student 👩‍🎓 & Tech Enthusiast  💻</h3>
+<img align="centter" src="[ ](https://github.com/irifa13/irifa13/assets/137860428/afad2916-a2d5-4f4d-9a51-ffae6afb5e2f)">
 
 - 👀 I’m interested in **Coding, Reading, Travelling**
 
