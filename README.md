@@ -1,10 +1,12 @@
-- Hello👋, I’m Irifa Khaishagi
-- 👀 I’m interested in Coding, Reading, Travelling 
-- 🌱 I’m currently learning Javascript, CSS, React
-- 📫 How to reach me: irifa.khaishagi1323@gmail.com
-- ⚡ Fun fact: I am my family's part time photographer and a decent editor, I am skilled in photoshop and final cut pro
+<h1 align="center"> Hey Everyone 👋🏻, I'm Irifa Khaishagi 🦋</h1>
+<h3 align="center">I am an Undergrad Student 👩‍🎓 & Tech Enthusiast 💻</h3>
 
-<!---
-irifa13/irifa13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **Coding, Reading, Travelling**
+
+- 🌱 I’m currently learning **Javascript, CSS, React**
+  
+- 📧 Reach me: **irifa.khaishagi1323@gmail.com**
+  
+- ⚡ Fun fact: **Apart from coding, I am my family's part time photographer 📸 a decent editor, I am skilled in photoshop and final cut pro, I love Public Speaking and I write Poetries 🖊️**
+
+- 🫧 Know More: https://drive.google.com/file/d/1xMgzZiEBD0r2GWgdshFZSvE47CPG0_KI/view?usp=share_link 
