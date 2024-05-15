@@ -39,7 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irifa13&" alt="irifa13"/>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahakpandeyofficial&" alt="mahakpandeyofficial" /></p>
+
 
 
 
