@@ -19,9 +19,6 @@
 <h3 align="left">Connect With me  🌍: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/irifaKhaishagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irifaKhaishagi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/irifaKhaishagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irifaKhaishagi" height="30" width="40" /></a>
-<a href="https://discord.gg/irifakhaishagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irifakhaishagi" height="30" width="40" /></a>
-<a href="https://twitter.com/IKhaishagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IKhaishagi" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irifa13&" alt="irifa13"/>
