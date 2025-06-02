@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **Coding, Reading and Travelling**
 
-- 🌱 I’m currently learning **Javascript, CSS, React**
+- 🌱 I’m currently learning **Emotion-centric Designs, AI embedded interfaces**
   
 - 📧 Reach me: **irifa.khaishagi1323@gmail.com**
   
