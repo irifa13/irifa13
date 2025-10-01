@@ -3,15 +3,15 @@
 
 # About Irifa 🌷
 
-- 👀 I’m interested in **Coding, Reading and Travelling**
+- 👀 I’m interested in **Coding, Creating, Reading and Travelling**
 
 - 🌱 I’m currently working on **Emotion-centric Designs, AI embedded interfaces**
 
-- I love to research about new products and scale the existing ones. I believe "Products and people are always connected". 
+- **I love to research about new products and scale the existing ones. I believe "Products and people are always connected".**
   
-- 📧 Reach me: **irifa.khaishagi1323@gmail.com**
+- ⚡ Fun fact: **I am my family's part time product manager, 📸 a decent editor, I am skilled in managing events and doing market research, I love Public Speaking and presenting my ideas, of course how can I forget mentioning that I write Poetries 🖊️**
   
-- ⚡ Fun fact: **Apart from coding, I am my family's part time photographer 📸 a decent editor, I am skilled in managing events and doing market research, I love Public Speaking, Presenting my ideas and I write Poetries 🖊️**
+- 📧 Reach me: **irifa.khaishagi1323@gmail.com** 
 
 - 🫧 Know More At: www.linkedin.com/in/irifakhaishagi
 
