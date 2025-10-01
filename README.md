@@ -1,17 +1,19 @@
 <h1 align="center"> Hey Everyone 👋🏻, I'm Irifa Khaishagi 🦋</h1>
-<h3 align="center">I am an Undergrad Student 👩‍🎓 & Tech Enthusiast  💻</h3>
+<h3 align="center">I am an Engineering Undergrad Student 👩‍🎓 & Product Enthusiast  💻</h3>
 
 # About Irifa 🌷
 
 - 👀 I’m interested in **Coding, Reading and Travelling**
 
-- 🌱 I’m currently learning **Emotion-centric Designs, AI embedded interfaces**
+- 🌱 I’m currently working on **Emotion-centric Designs, AI embedded interfaces**
+
+- I love to research about new products and scale the existing ones. I believe "Products and people are always connected". 
   
 - 📧 Reach me: **irifa.khaishagi1323@gmail.com**
   
-- ⚡ Fun fact: **Apart from coding, I am my family's part time photographer 📸 a decent editor, I am skilled in photoshop and final cut pro, I love Public Speaking and I write Poetries 🖊️**
+- ⚡ Fun fact: **Apart from coding, I am my family's part time photographer 📸 a decent editor, I am skilled in managing events and doing market research, I love Public Speaking, Presenting my ideas and I write Poetries 🖊️**
 
-- 🫧 Know More: https://drive.google.com/file/d/1xMgzZiEBD0r2GWgdshFZSvE47CPG0_KI/view?usp=share_link
+- 🫧 Know More At: www.linkedin.com/in/irifakhaishagi
 
 
 <a href="https://github.com/sponsors/M0nica"><img align="centre" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
